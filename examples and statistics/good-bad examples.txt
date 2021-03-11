@@ -1,0 +1,24 @@
+good:
+בזכות אבות 1800	LogLikelihood is: -5.262923892714525
+מסכת אבות 1800	LogLikelihood is: -12.281845261101807
+מוסר אביך 1800	LogLikelihood is: -5.615047883105717
+אברהם אבינו 1800	LogLikelihood is: -153.58231570401708
+בהם תתעטף 1940	LogLikelihood is: -51.17592441500807
+gentle band 1610	LogLikelihood is: -0.8582602130477666
+came better 1610	LogLikelihood is: -3.609268334559447
+thanke god 1610	LogLikelihood is: -5.5718890356207975
+date stamped 1610	LogLikelihood is: 0.507933476365122
+women abandon 1680	LogLikelihood is: -4.051385143781374
+tender ass 1600	LogLikelihood is: -4.63553731523055
+bad:
+אס במקרה 1800	LogLikelihood is: -11.359146360806449
+אחיך תשמט 1940	LogLikelihood is: -7.064226833243822
+בעודו במעי 1800	LogLikelihood is: -8.611170805209042
+משתמשים במלת 1800	LogLikelihood is: -7.8464224296282765
+יעקב לשצ 1940	LogLikelihood is: -47.48787245520833
+fo came 1610	LogLikelihood is: -2.511885273727657
+ye abide 1680	LogLikelihood is: -5.188944917103939
+monsieur cobweb 1600	LogLikelihood is: -10.78088192544914
+sword come 1600	LogLikelihood is: -2.569541366134956
+bottoms dream 1600	LogLikelihood is: -3.289483694776493
+

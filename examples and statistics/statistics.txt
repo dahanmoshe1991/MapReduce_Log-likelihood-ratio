@@ -1,0 +1,33 @@
+eng:
+
+phase1:
+		Map output records=581483522
+		Map output bytes=11103461649
+
+
+phase2:
+		Map output records=2052572232
+		Map output bytes=54915249471
+
+
+phase3:
+		Map output records=398930730
+		Map output bytes=20220315703
+
+
+heb:
+
+phase1:
+		Map output records=88117876
+		Map output bytes=1884981008
+
+
+phase2:
+		Map output records=227074461
+		Map output bytes=6985863900
+
+
+phase3:
+		Map output records=52976587
+		Map output bytes=2869902310
+
